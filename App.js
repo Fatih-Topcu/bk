@@ -50,7 +50,7 @@ export default function App() {
           name="Home"
           component={Homepage}
           options={{
-            tabBarIcon: () => materialIcon("home", "red"),
+            tabBarIcon: () => materialIcon("home", "blue"),
           }}
         />
 
